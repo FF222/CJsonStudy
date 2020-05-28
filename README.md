@@ -1,8 +1,9 @@
 >  F:\0-practise\CJson\README.md
 
-| Version | Date     | By   | Change        | Cost |
-| ------- | -------- | ---- | ------------- | ---- |
-| **A**   | 2020-4-4 | AYZP | First Version | 十分 |
+| Version | Date      | By   | Change        | Cost |
+| ------- | --------- | ---- | ------------- | ---- |
+| **A**   | 2020-4-4  | AYZP | First Version | 十分 |
+| A.1     | 2020-5-28 | AYZP | small change  | 十分 |
 
 # 0 前言
 
