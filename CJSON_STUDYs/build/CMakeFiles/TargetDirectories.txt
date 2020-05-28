@@ -1,0 +1,8 @@
+F:/0-practise/CJson/CJSON_STUDYs/build/CMakeFiles/edit_cache.dir
+F:/0-practise/CJson/CJSON_STUDYs/build/CMakeFiles/rebuild_cache.dir
+F:/0-practise/CJson/CJSON_STUDYs/build/lib/CMakeFiles/CJSON.dir
+F:/0-practise/CJson/CJSON_STUDYs/build/lib/CMakeFiles/edit_cache.dir
+F:/0-practise/CJson/CJSON_STUDYs/build/lib/CMakeFiles/rebuild_cache.dir
+F:/0-practise/CJson/CJSON_STUDYs/build/src/CMakeFiles/edit_cache.dir
+F:/0-practise/CJson/CJSON_STUDYs/build/src/CMakeFiles/main.dir
+F:/0-practise/CJson/CJSON_STUDYs/build/src/CMakeFiles/rebuild_cache.dir

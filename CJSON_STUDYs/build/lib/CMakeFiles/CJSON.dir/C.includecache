@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/0-practise/CJson/CJSON_STUDYs/lib/cJSON.c
+string.h
+-
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+limits.h
+-
+ctype.h
+-
+float.h
+-
+locale.h
+-
+cJSON.h
+F:/0-practise/CJson/CJSON_STUDYs/lib/cJSON.h
+
+F:/0-practise/CJson/CJSON_STUDYs/lib/cJSON.h
+stddef.h
+-
+

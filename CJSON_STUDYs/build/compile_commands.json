@@ -1,0 +1,12 @@
+[
+{
+  "directory": "F:/0-practise/CJson/CJSON_STUDYs/build/lib",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DCJSON_EXPORTS  -g   -o CMakeFiles\\CJSON.dir\\cJSON.c.obj   -c F:\\0-practise\\CJson\\CJSON_STUDYs\\lib\\cJSON.c",
+  "file": "F:/0-practise/CJson/CJSON_STUDYs/lib/cJSON.c"
+},
+{
+  "directory": "F:/0-practise/CJson/CJSON_STUDYs/build/src",
+  "command": "D:\\mingw64\\bin\\g++.exe   @CMakeFiles/main.dir/includes_CXX.rsp -g   -std=gnu++14 -o CMakeFiles\\main.dir\\main.cpp.obj -c F:\\0-practise\\CJson\\CJSON_STUDYs\\src\\main.cpp",
+  "file": "F:/0-practise/CJson/CJSON_STUDYs/src/main.cpp"
+}
+]
